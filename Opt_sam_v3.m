@@ -1,7 +1,7 @@
 %-------------------------------------------------------------------------%
 % Optimal Sampling Version 3
 % Description: We solve the weighted-LSP approximation of a function on an
-% irregular domain, from samples points under two optimal measures.
+% irregular domain, from sequential samples point.
 % Programer: Juan Manuel Cardenas
 % Date: July 9 - 2019 / Last modification: July 16 - 2019
 %-------------------------------------------------------------------------%
