@@ -1,6 +1,6 @@
 # Optimal-Sampling-
 Solve weighted-LSP approximation of a function f on an irregular domain D, from samples points under a optimal measures.
-*Function: Opt_sam_v1.m 
+* Function: Opt_sam_v1.m 
   This function sampling points in any iteration with respect the dimension and polynomial degree.
   Basic sctructure: 
   - Set up: Define the parameters to run the code. 
