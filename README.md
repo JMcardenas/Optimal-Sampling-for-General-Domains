@@ -5,7 +5,8 @@ Solve weighted-LSP approximation of a function f on an irregular domain D, from 
   Basic sctructure: 
   - Set up: Define the parameters to run the code. 
   - Generate K points under uniform measure. 
-  - Pre-processing: 
+  - Pre-processing:
+    - Under hyperbolic cross index this generate n_max and N_max (polynomial degree and number of bases). 
               - Under hyperbolic cross index this generate n_max and N_max (polynomial degree and number of bases).
               - Reorder index set: The first index set correspond to n_1 and the second index until n_2 and continues.
               - 
