@@ -3,6 +3,7 @@ Solve weighted-LSP approximation of a function f on an irregular domain D, from 
 * Function: Opt_sam_v1.m 
 
   This function sampling points in any iteration with respect the dimension and polynomial degree.
+  
   Basic sctructure: 
   - Set up: Define the parameters. 
   - Generate K points under uniform measure: Generate the grid. 
@@ -22,6 +23,7 @@ Solve weighted-LSP approximation of a function f on an irregular domain D, from 
 * Function: Opt_sam_v3.m 
 
   This function use a sequantial sampling the dimension and polynomial degree.
+  
   Basic sctructure: 
   - Set up: Define the parameters. 
   - Generate K points under uniform measure: Generate the grid. 
