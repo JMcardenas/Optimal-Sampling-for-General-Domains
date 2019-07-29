@@ -20,6 +20,7 @@ Solve weighted-LSP approximation of a function f on an irregular domain D, from 
     - save singular values of A and Error.
 -------------------------------------------------------------------------------------------------------------------------    
 * Function: Opt_sam_v3.m 
+
   This function use a sequantial sampling the dimension and polynomial degree.
   Basic sctructure: 
   - Set up: Define the parameters. 
