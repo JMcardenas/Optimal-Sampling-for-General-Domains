@@ -1,7 +1,7 @@
 %-------------------------------------------------------------------------%
 % Test Optimal sampling - with Pre-processing
 % Description: We solve the weighted-LSP approximation of a function on an
-% irregular domain, from samples points under a optimal measures.
+% irregular domain, from samples points under a optimal measure.
 % Programer: Juan Manuel Cardenas
 % Date: July 16 - 2019 / Last modification: July 16 - 2019
 %-------------------------------------------------------------------------%
