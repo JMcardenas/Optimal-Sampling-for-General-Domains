@@ -40,5 +40,14 @@ Solve weighted-LSP approximation of a function f on an irregular domain D, from 
     - Re-order index.
     - solve w-LS approximation.
     - save singular values of A and Error.
-    
+--------------------------------------------------------------------------------------------------------------------------
+* Functions: Newsam_Recover_Plot_r1.m and Firstsam_Recover_plot_r1.m
+
+  This function plot the result obtained under the sequentaly sampling(Opt_sam_v3.m), and optimal sampling(Opt_sam_v1.m).
+  Note: The _r1 it is label for the Annular domain radio 1. You can change the script save for your convenience. 
+  
+  Basic sctructure: 
+  - Save errors: The files related from d = 2 to d = 10 are separate of d = 15, because they have different size. 
+  - Compute the median.
+  - plot the figures. 
           
