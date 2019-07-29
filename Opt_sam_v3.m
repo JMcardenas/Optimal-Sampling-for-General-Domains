@@ -242,6 +242,7 @@ end
 %--- save result ---%
  
 %save('Newsam_d15_NlogN_r05','ERROR_BOX','N_VALUES','M_VALUES','MIN_SV')
+%save('Newsam_d2to10_NlogN_r05','ERROR_BOX','N_VALUES','M_VALUES','MIN_SV')
 t1 = toc;
  
 %--- finish pararellize ---%
