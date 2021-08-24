@@ -11,5 +11,5 @@ aux = ind + 1;
 v_1 = (y + (( (-1).^aux )./aux ) ).^2 ; 
 v_2 = (d/4) + v_1 ; 
 v_3 = (d/4)./(v_2);
-f = prod(v_3);
+f   = prod(v_3);
 end
